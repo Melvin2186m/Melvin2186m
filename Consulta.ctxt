@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Consulta
+comment1.params=nombre
+comment1.target=java.util.Vector\ buscarNombre(java.lang.String)
+comment10.params=ciudad\ sexo
+comment10.target=java.util.Vector\ sexoCiudadMayores(java.lang.String,\ java.lang.String)
+comment11.params=apellido\ ciudad\ sexo
+comment11.target=java.util.Vector\ apellidoCiudadySexo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=sexo
+comment2.target=java.util.Vector\ buscarHombresOmujeres(java.lang.String)
+comment3.params=ciudad
+comment3.target=java.util.Vector\ buscarCiudad(java.lang.String)
+comment4.params=apellido
+comment4.target=java.util.Vector\ buscarapellido(java.lang.String)
+comment5.params=lada
+comment5.target=java.util.Vector\ buscarlada(java.lang.String)
+comment6.params=apellido\ ciudad
+comment6.target=java.util.Vector\ buscarApellidoyCiudad(java.lang.String,\ java.lang.String)
+comment7.params=ciudad
+comment7.target=java.util.Vector\ buscarMayoresEdadyCiudad(java.lang.String)
+comment8.params=ciudad
+comment8.target=java.util.Vector\ buscarMujeresmayCiu(java.lang.String)
+comment9.params=ciudad
+comment9.target=java.util.Vector\ buscarHombresmayCiu(java.lang.String)
+numComments=12
